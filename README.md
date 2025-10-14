@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Obregon Melina (168542) - meliobre06@gmail.com
+- Kelechian Leonardo (195147) - kelechian5@gmail.com
 
 # Contexto / Escenario
 
